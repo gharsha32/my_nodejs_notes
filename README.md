@@ -25,6 +25,11 @@ console.dir();
 console.error();
 ```
 ### To print the response to the web using node js
-``javascript
+```javascript
 response.write();
 ```
+### To end a process using node
+```javascript
+response.end();
+```
+### KEEP IN MIND THAT, NOTHING YOU WRITE AFTER THE END STATEMENT WILL RUN
