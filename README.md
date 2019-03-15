@@ -33,3 +33,8 @@ response.write();
 response.end();
 ```
 ### KEEP IN MIND THAT, NOTHING YOU WRITE AFTER THE END STATEMENT WILL RUN
+
+### To export a file using node
+```javascript
+module.exports();
+```
