@@ -24,3 +24,7 @@ console.dir();
 ```javascript
 console.error();
 ```
+### To print the response to the web using node js
+``javascript
+response.write();
+```
